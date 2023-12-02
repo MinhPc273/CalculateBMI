@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Bmiapp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <style name="BG">
+        <item name="android:background">#000</item>
+    </style>
+
+    <style name="TEXT">
+        <item name="android:textColor">#FFF</item>
+    </style>
+
+    <style name="BG_CARD">
+        <item name="android:background">@drawable/cardbackgrounddark</item>
+    </style>
+
+    <style name="BG_CARD_BOX">
+        <item name="android:background">@drawable/cardbackgroundboxdark</item>
+    </style>
+
+    <style name="IMG_ICON">
+        <item name = "android:tint">#FFF</item>
+    </style>
+
+</resources>

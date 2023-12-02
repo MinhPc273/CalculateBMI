@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculate BMI</string>
+    <string name="_40"><![CDATA[> 40]]></string>
+    <string name="_16"><![CDATA[< 16]]></string>
+</resources>
